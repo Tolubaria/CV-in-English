@@ -7,6 +7,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Della+Respira&family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Della+Respira&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@500&display=swap');
 
 body {
     background-color: #f5f7fa;
@@ -138,8 +139,8 @@ body {
 }
 .info {
     text-align: center;
-    font-size: 12px;
-    font-family: 'Dancing Script', cursive;
+    font-size: 14px;
+    font-family: 'Noto Sans Mono', monospace;
 }
 .item {
     color: #ff6d08;
